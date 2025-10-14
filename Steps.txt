@@ -1,0 +1,20 @@
+Step_1:
+    Load and Understand the data.
+Step_2:
+    Clean the data
+Step_3:
+    Feature Scaling if needed: normalize or standarize the data. 
+Step_4:
+    Split the data: Divide the data into training, validation, and test sets
+Step_5:
+    Training: Select and train the data on machine learning modal
+Step_6:
+    Predection: Use the trained modal to generate Predection on new data.
+Step_7:
+    Evaluation: Asses the modal performance using appropriate metrics
+Step_8:
+    Visualize the findings and insights i.e results.
+Step_9:
+    Improve the modal (Optional)
+Step_10:
+    Summerize the project and document the key findings.

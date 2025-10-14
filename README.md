@@ -86,25 +86,4 @@ Prediction based on the user input: Pass
 
 ---
 
-## 📁 Repository Structure
-```
-Student-Performance-Prediction/
-│
-├── student_performance.csv
-├── student_performance_prediction.py
-├── README.md
-└── requirements.txt
-```
 
----
-
-## 🌟 Future Enhancements
-- Add more algorithms (Decision Tree, Random Forest)  
-- Build a Streamlit web interface for interactive prediction  
-- Optimize hyperparameters for better accuracy  
-
----
-
-## 🧠 Author
-Developed by **Shafqat Ullah**  
-📧 Connect with me on [LinkedIn](https://www.linkedin.com) for collaborations or opportunities.

@@ -30,7 +30,7 @@ print("Classification Report: ")
 print(classification_report(Y_test, Y_prediction))
 
 conf_matrix=confusion_matrix(Y_test, Y_prediction)
-
+# This will show a matrix for only four dataset values. Because I have ginven 20% of the data for test. 
 plt.figure(figsize=(6,4))
 sns.heatmap(conf_matrix, annot=True, fmt="d", cmap="Blues", xticklabels=["Fail", "Pass"], yticklabels=["Fail", "Pass"])
 plt.xlabel("Predicted")
